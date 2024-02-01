@@ -13,9 +13,13 @@ This repository consists of code written while learning C programming. The list 
 - Chapter 10 - File I/O
 - Chapter 11 - Dynamic Memory Allocation
 
+## How to run the project
 To run this, clone the repository into a folder.
 
 To use it on VSCode -
-Make sure MinGw is installed.
-The Environment Variable Path is set.
-C/C++ extension is installed on VSCode.
+1. Make sure MinGW is installed.
+2. The Environment Variable Path is set.
+3. C/C++ extension is installed on VSCode.
+
+## How to use the project
+Use this repository to learn the basics of C programming. 
