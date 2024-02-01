@@ -14,7 +14,7 @@ int main(){
   int number = 25;
   char star = '*';
   int Age = 22;
-  float pi1 = 3.14;
+  float Pi = 3.14;
 
   /* Vairbales Rules */
   //1) a != A; Variables are Case-Sensitive
